@@ -1,13 +1,13 @@
 Day 1 Notes
 
-Date:
+Date:1/13
 
-What I learned:
+What I learned:how to send ssh and open git repo and connect via ssh
 
-What was confusing:
+What was confusing: ui and some lingo but thats what googles for    
 
 Bugs / issues encountered:
-
+non user error 
 Goals for tomorrow:
 
 Commands I ran:
